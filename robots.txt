@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://iam269.github.io/website-personal/sitemap.xml

@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio website! 🚀 This is a meticulously crafted static site designed to showcase my journey and expertise as a passionate web developer and game developer. Built with modern web technologies, the site features multiple interactive sections including home, about, blog, CV, and skills, all optimized for seamless viewing on desktop and mobile devices. 📱💻
 
+![Website Preview](images/Screenshot.png)
+
 ## 👨‍💻 About the Author
 
 **Ionita Aurel Mihai** is a talented 17-year-old high school student currently in 11th grade at Colegiul Național "Ștefan cel Mare" in Târgu Neamț, Romania. 🇷🇴 With an insatiable passion for programming, he has mastered web development and game development, demonstrating proficiency in a wide array of programming languages and cutting-edge frameworks. His dedication to coding is evident in his extensive portfolio and continuous pursuit of technological excellence. 🎓🔥
@@ -44,7 +46,7 @@ Each project demonstrates problem-solving skills, attention to detail, and a com
 
 ## 🌐 Live Site
 
-Experience the website in action: [https://iam269.github.io/website-personal/](https://iam269.github.io/website-personal/)  
+Experience the website in action: [https://itsiamdev.github.io/website-personal/](https://itsiamdev.github.io/website-personal/)  
 Feel free to explore, interact, and get inspired! 🌍
 
 ## 🏃‍♂️ How to Run Locally
